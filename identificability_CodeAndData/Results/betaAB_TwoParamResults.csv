@@ -1,0 +1,5 @@
+dataset,hypothesis,beta_A_hat,beta_S_hat,R0,AIC
+Synthetic,High Transmission,0.5047,0.5328,1.6515,500.84
+Synthetic,Low Recovery,0.4995,0.2575,1.7773,500.85
+COVID-19,High Transmission,0.6625,0.0000,2.0658,1161.94
+COVID-19,Low Recovery,0.6625,0.0000,2.0658,1161.94

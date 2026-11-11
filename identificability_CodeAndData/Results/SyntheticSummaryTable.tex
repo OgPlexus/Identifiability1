@@ -1,0 +1,14 @@
+\begin{table}[!ht]
+\centering
+\begin{tabular}{ccccccc}
+\toprule
+Case & r target & nu & beta closed form & beta fit & R0 & AIC \\
+\midrule
+Truth & 0.1000 & 0.1200 & 0.4897 & -- & 1.7043 & -- \\
+High Transmission (A) & 0.1000 & 0.3000 & 0.5032 & 0.5059 & 1.6514 & 498.8481 \\
+Low Recovery (B) & 0.1000 & 0.0500 & 0.4765 & 0.4749 & 1.8861 & 500.4819 \\
+\bottomrule
+\end{tabular}
+\caption{Synthetic data summary. Closed form beta is the value predicted by the degeneracy curve at the stated nu and r target. Fitted beta is recovered by fitting daily symptomatic incidence to the noisy synthetic data (n = 70). AIC values are comparable only within this dataset.}
+\label{tab:synthetic_summary}
+\end{table}

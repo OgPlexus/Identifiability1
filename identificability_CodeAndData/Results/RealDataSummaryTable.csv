@@ -1,0 +1,3 @@
+Case,r_hat,nu,beta_closed_form,beta_fit,R0,AIC
+High Transmission (A),0.2079,0.3000,0.7690,0.6360,2.0760,1160.4278
+Low Recovery (B),0.2079,0.0500,0.7495,0.6092,2.4191,1161.0157

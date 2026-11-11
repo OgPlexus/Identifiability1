@@ -1,0 +1,12 @@
+statistic,value
+nReplicates,200
+beta_A_mean,0.50595761
+beta_A_sd,0.00053429
+beta_B_mean,0.47502073
+beta_B_sd,0.00055697
+dAIC_mean,0.59751023
+dAIC_sd,4.32352898
+abs_dAIC_below_2,66
+abs_dAIC_below_4,128
+abs_dAIC_above_10,5
+A_preferred,93
